@@ -1,10 +1,10 @@
-# Olá, eu sou Pedro Andrade 👋
+# Hi, I'm Pedro Andrade 👋
 
-Desenvolvedor de software com foco em **backend**, **APIs** e aplicações escaláveis.
+Software developer focused on **backend development**, **APIs**, and scalable applications.
 
-Atualmente trabalho e estudo principalmente com **.NET**, **Python/Django**, **Java/Spring Boot**, **Angular** e **Docker**. Também tenho interesse em **Azure**, **AWS**, **Inteligência Artificial**, **RAG**, **IoT** e **DevOps**.
+I currently work with and study mainly **.NET**, **Python/Django**, **Java/Spring Boot**, **Angular**, and **Docker**. I am also interested in **Azure**, **AWS**, **Artificial Intelligence**, **RAG**, **IoT**, and **DevOps**.
 
-## Tecnologias
+## Technologies
 
 <p>
   <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET" />
