@@ -20,5 +20,3 @@ Atualmente trabalho e estudo principalmente com **.NET**, **Python/Django**, **J
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
 </p>
-
-> Sempre aprendendo, construindo e buscando soluções melhores.
